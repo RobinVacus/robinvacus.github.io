@@ -9,8 +9,10 @@ github_repo_url: "https://github.com/RobinVacus/robinvacus.github.io" # EDIT: RE
 heading_anchors: true
 
 # Activate a "Back to top" link
-back_to_top: true
-back_to_top_text: "Back to top"
+#back_to_top: true
+#back_to_top_text: "Back to top"
+
+color_scheme: custom_light
 
 # A footer with "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
