@@ -1,5 +1,5 @@
-title: Robin Vacus # EDIT: Fill this in
-description: This website contains all relevant information about my work. # EDIT: Fill this in
+title: Robin Vacus
+description: This website contains all relevant information about my work.
 
 remote_theme: just-the-docs/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
 github_repo_url: "https://github.com/RobinVacus/robinvacus.github.io" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
