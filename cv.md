@@ -33,12 +33,12 @@ Thesis title
 : Algorithmic Perspectives to Collective Natural Phenomena [(.PDF)](thesis.pdf)
 
 Jury
-: Janna Burman LRI, Université Paris-Saclay (Examinatrice)
-  Benjamin Doerr LIX, Ecole Polytechnique (Reviewer)
-  George Giakkoupis, INRIA, IRISA (Examinateur)
-  Alain Jean-Marie INRIA, Université Côte d’Azur (Examinateur)
-  Claire Mathieu CNRS, IRIF, Université Paris Cité (Examinatrice)
-  Roger Wattenhofer, ETH Zurich (Reviewer)
+: Janna Burman LRI, Université Paris-Saclay (Examinatrice)   
+  Benjamin Doerr LIX, Ecole Polytechnique (Reviewer)   
+  George Giakkoupis, INRIA, IRISA (Examinateur)   
+  Alain Jean-Marie INRIA, Université Côte d’Azur (Examinateur)   
+  Claire Mathieu CNRS, IRIF, Université Paris Cité (Examinatrice)   
+  Roger Wattenhofer, ETH Zurich (Reviewer)   
 
 
 ### 2017 – 2019 Master of Computer Science at ENS de Lyon
