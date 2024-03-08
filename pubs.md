@@ -7,7 +7,8 @@ nav_order: 3
 # Publications
 
 
-#### Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication
+### Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication
+{: .d-inline-block }
 
 Journal
 {: .label .label-blue }
@@ -18,7 +19,8 @@ Amos Korman and **R.V.**
 
 
 
-#### The Minority Dynamics and the Power of Synchronicity
+### The Minority Dynamics and the Power of Synchronicity
+{: .d-inline-block }
 
 Conference
 {: .label .label-green }
@@ -29,7 +31,7 @@ Luca Becchetti, Andrea Clementi, Francesco Pasquale, Luca Trevisan, **R.V.** and
 
 
 
-#### Test
+### Test
 
 - **Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication**   
 Amos Korman and **R.V.**   
