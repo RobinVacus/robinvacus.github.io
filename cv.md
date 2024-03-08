@@ -13,32 +13,38 @@ nav_order: 2
 
 ### 01/2024 – 12/2024: Post-doctoral researcher at Bocconi University, Milan
 
-- *Supervisor:* Luca Trevisan
-- *Affiliation:* Bocconi Institute for Data Science and Analytics (BIDSA)
+Supervisor
+: Luca Trevisan
+  
+Affiliation
+: Bocconi Institute for Data Science and Analytics (BIDSA)
 
 
 
 ### 12/2020 – 12/2023: PhD in Computer Science at IRIF, CNRS, Paris
 
-- *Supervisors:* Amos Korman and Pierre Fraigniaud
-- *Affiliation:* Université Paris Cité, IRIF, CNRS
-- *Thesis title:* Algorithmic Perspectives to Collective Natural Phenomena [(.PDF)](thesis.pdf)
-- *Jury:*
-  - Janna Burman LRI, Université Paris-Saclay (Examinatrice)
-  - Benjamin Doerr LIX, Ecole Polytechnique (Reviewer)
-  - George Giakkoupis, INRIA, IRISA (Examinateur)
-  - Alain Jean-Marie INRIA, Université Côte d’Azur (Examinateur)
-  - Claire Mathieu CNRS, IRIF, Université Paris Cité (Examinatrice)
-  - Roger Wattenhofer, ETH Zurich (Reviewer)
+Supervisors
+: Amos Korman and Pierre Fraigniaud
 
+Affiliation
+: Université Paris Cité, IRIF, CNRS
+
+Thesis title
+: Algorithmic Perspectives to Collective Natural Phenomena [(.PDF)](thesis.pdf)
+
+Jury
+: Janna Burman LRI, Université Paris-Saclay (Examinatrice)
+  Benjamin Doerr LIX, Ecole Polytechnique (Reviewer)
+  George Giakkoupis, INRIA, IRISA (Examinateur)
+  Alain Jean-Marie INRIA, Université Côte d’Azur (Examinateur)
+  Claire Mathieu CNRS, IRIF, Université Paris Cité (Examinatrice)
+  Roger Wattenhofer, ETH Zurich (Reviewer)
 
 
 ### 2017 – 2019 Master of Computer Science at ENS de Lyon
 
 
-
 ### 2017 Bachelor of Computer Science at ENS de Lyon
-
 
 
 ## Teaching
