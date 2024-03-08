@@ -7,23 +7,14 @@ nav_order: 3
 # Publications
 
 
-### Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication
-{: .d-inline-block }
-
-Journal
-{: .label .label-blue }
+### 📰 Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication
 
 Amos Korman and **R.V.**   
 *Distributed Computing*, 2024   
 [(Published version)](https://doi.org/10.1007/s00446-024-00462-8)    
 
 
-
-### The Minority Dynamics and the Power of Synchronicity
-{: .d-inline-block }
-
-Conference
-{: .label .label-green }
+### 🎙️ The Minority Dynamics and the Power of Synchronicity
 
 Luca Becchetti, Andrea Clementi, Francesco Pasquale, Luca Trevisan, **R.V.** and Isabella Ziccardi   
 *SODA*, 2024   
