@@ -6,11 +6,10 @@ nav_order: 3
 
 # Publications
 
-- 
+- **Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication**   
+Amos Korman and **R.V.**
 Journal
 {: .label .label-blue }
-**Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication**   
-Amos Korman and **R.V.**   
 *Distributed Computing*, 2024   
 [(Published version)](https://doi.org/10.1007/s00446-024-00462-8)    
 
@@ -48,10 +47,3 @@ Amos Korman and **R.V.**
 Amos Korman and **R.V.**   
 *Scientific Reports*, 2021   
 [(Published version)](https://doi.org/10.1109/TCNS.2022.3212640) [(Preprint)](https://arxiv.org/abs/2106.15942)
-
-
-Journal
-{: .label .label-blue }
-
-
-
