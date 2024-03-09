@@ -23,7 +23,7 @@ I am interested in computational aspects of stochastic systems inspired  by anim
 
 ## Contact information
 
-<img align="left" src="./profile_picture.jpg" alt="Duomo di Milano" style="width:300px;"/>
+<img align="left" src="./res/profile_picture.jpg" alt="Duomo di Milano" style="width:300px;"/>
 
 &emsp; Robin Vacus   
 &emsp; Postdoctoral researcher   

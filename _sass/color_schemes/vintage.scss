@@ -1,0 +1,30 @@
+
+
+$main_light: #e9e7da;
+$main_dark: #d2d0c5;
+$secondary_light: #636b46;
+$secondary_dark: #373f27;
+$tertiary: #d0891d;
+$text: #222222;
+
+
+
+$body-background-color: $main_light;
+$body-heading-color: $secondary_dark;
+$body-text-color: $text;
+
+$link-color: $tertiary;
+
+$nav-child-link-color: $secondary_dark;
+$sidebar-color: $secondary_light;
+
+$base-button-color: #f7f7f7;
+$btn-primary-color: $tertiary;
+
+$feedback-color: darken($sidebar-color, 3%);
+
+$code-background-color: $main_dark;
+$table-background-color: $main_light;
+
+$search-background-color: $main_light;
+$search-result-preview-color: $main_dark;

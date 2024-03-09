@@ -15,7 +15,7 @@ nav_order: 2
 
 Supervisor
 : Luca Trevisan
-  
+
 Affiliation
 : Bocconi Institute for Data Science and Analytics (BIDSA)
 
@@ -30,7 +30,7 @@ Affiliation
 : Université Paris Cité, IRIF, CNRS
 
 Thesis title
-: Algorithmic Perspectives to Collective Natural Phenomena [(.PDF)](thesis.pdf)
+: Algorithmic Perspectives to Collective Natural Phenomena [(.PDF)](res/thesis.pdf)
 
 Jury
 : Janna Burman LRI, Université Paris-Saclay (Examinatrice)   
