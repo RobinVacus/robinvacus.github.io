@@ -64,7 +64,7 @@ Niccolò D'Archivio and **R.V.**
 
 # Talks at Conferences and Workshops
 
-- **05/2024**: [Kolmogorov meets Turing](https://sites.google.com/uniroma1.it/kmt-2024), Rome. *Minority Dynamics: the Short and Winding Road to Consensus *.
+- **05/2024**: [Kolmogorov meets Turing](https://sites.google.com/uniroma1.it/kmt-2024), Rome. *Minority Dynamics: the Short and Winding Road to Consensus*.
 
 - **10/2023**: [Workshop on Analysis of Network Dynamics](https://sites.google.com/view/wand2023/home), L’Aquila. *The Self-stabilizing Bit-Dissemination Problem*.
 
