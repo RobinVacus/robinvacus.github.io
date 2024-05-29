@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications and Talks
 layout: default
 nav_order: 3
 ---
@@ -61,4 +61,18 @@ Niccolò D'Archivio and **R.V.**
 *Scientific Reports*, 2021   
 [(Published version)](https://doi.org/10.1109/TCNS.2022.3212640) [(Preprint)](https://arxiv.org/abs/2106.15942)   
 
+
+# Talks at Conferences and Workshops
+
+- **05/2024**: [Kolmogorov meets Turing](https://sites.google.com/uniroma1.it/kmt-2024), Rome. *Minority Dynamics: the Short and Winding Road to Consensus *.
+
+- **10/2023**: [Workshop on Analysis of Network Dynamics](https://sites.google.com/view/wand2023/home), L’Aquila. *The Self-stabilizing Bit-Dissemination Problem*.
+
+- **08/2023**: [The 32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org/), Online talk. *On the Role of Memory in Robust Opinion Dynamics*.
+
+- **09/2022**: [2nd Workshop Complexity and Algorithms](https://www.irif.fr/gt-coa/workshop2022), Paris. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
+
+- **07/2022**: [Principles of Distributed Computing](https://www.podc.org/podc2022/), Salerno. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
+
+- **06/2022**: [9th French-Israeli Workshop on Foundations of Computer Science](https://www.filofocs.org/filofocs-2022), Tel-Aviv. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
 
