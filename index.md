@@ -13,11 +13,7 @@ Since January 2024, I am a post-doctoral researcher at the Bocconi University of
 
 ## Research interests
 
-I am interested in computational aspects of stochastic systems inspired  by animal and human behavior. I focus on groups of individuals (e.g.,  birds, fishes, insects) facing collective challenges (e.g., navigation  and foraging). My projects typically involve one or several of the  following ingredients.
-
-- **Distributed computing**: Identifying the most efficient way for a group of individuals to perform collective tasks;
-- **Stochastic processes**: Accounting for the presence of noise (lack of information, lack of organization, miscommunications, mistakes);
-- **Game Theory**: Taking into account selfish behaviors and competition between individuals.
+I investigate the computational power of simple **distributed systems** operating in noisy and unreliable environments. Specifically, I study the feasibility of fundamental problems such as **information spread** and **consensus** among groups of agents with extremely limited capabilities, with a focus on robustness. This often involves studying **discrete stochastic processes** and deriving bounds on their convergence times. The ultimate goal of my research is to gain insights into biological ensembles and, eventually, to better understand natural systems and phenomena. To this end, the settings I consider sometimes incorporate **game theory** in order to account for selfish behaviors.
 
 
 
