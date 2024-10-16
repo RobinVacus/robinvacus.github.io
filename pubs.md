@@ -6,12 +6,11 @@ nav_order: 3
 
 # Publications
 
-
 ### 🎙️ On the Limits of Information Spread by Memory-less Agents 
 
 [Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928) and **R.V.**   
 *DISC*, 2024   
-[(Preprint)](https://arxiv.org/abs/2402.11553)   
+[(Published version)](https://doi.org/10.4230/LIPIcs.CVIT.2016.23) [(Preprint)](https://arxiv.org/abs/2402.11553)   
 
 
 ### 📯 Brief Announcement: On the Limits of Information Spread by Memory-less Agents 
@@ -83,5 +82,4 @@ nav_order: 3
 - **07/2022**: [Principles of Distributed Computing](https://www.podc.org/podc2022/), Salerno. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
 
 - **06/2022**: [9th French-Israeli Workshop on Foundations of Computer Science](https://www.filofocs.org/filofocs-2022), Tel-Aviv. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
-
 

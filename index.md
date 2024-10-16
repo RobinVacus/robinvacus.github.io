@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Homepage
 
-After obtaining a master's degree in theoretical Computer Science in [ENS de Lyon](http://www.ens-lyon.fr/), I have been a PhD student at IRIF from December 2020 to December 2023, under the supervision of [Amos Korman](https://amoskorman.com/) and [Pierre Fraigniaud](https://www.irif.fr/users/pierref/index).
+After obtaining a master's degree in theoretical Computer Science in [ENS de Lyon](http://www.ens-lyon.fr/), I have been a PhD student at IRIF from December 2020 to December 2023, under the supervision of [Amos Korman](https://amoskorman.com/) and [Pierre Fraigniaud](https://www.irif.fr/users/pierref/index). For my work during this period, I received the [2024 PODC Doctoral Dissertation Award](https://www.podc.org/dissertation/).
 
 Since January 2024, I am a post-doctoral researcher at the Bocconi University of Milan, with [Luca Trevisan](https://lucatrevisan.github.io/).
 

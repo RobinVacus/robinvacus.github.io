@@ -40,6 +40,7 @@ Jury
   Claire Mathieu CNRS, IRIF, Université Paris Cité (Examinatrice)   
   Roger Wattenhofer, ETH Zurich (Reviewer)   
 
+For the thesis, I received the [2024 PODC Doctoral Dissertation Award](https://www.podc.org/dissertation/).
 
 ### 2017 – 2019 Master of Computer Science at ENS de Lyon
 
