@@ -4,15 +4,13 @@ layout: default
 nav_order: 3
 ---
 
-
 # Publications
-
 
 ### 🎙️ On the Limits of Information Spread by Memory-less Agents 
 
 [Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928) and **R.V.**   
 *DISC*, 2024   
-[(Published version)](https://doi.org/10.4230/LIPIcs.CVIT.2016.23) [(Preprint)](https://arxiv.org/abs/2402.11553)   
+[(Published version)](https://doi.org/10.4230/LIPIcs.DISC.2024.18) [(Preprint)](https://arxiv.org/abs/2402.11553)   
 
 
 ### 📯 Brief Announcement: On the Limits of Information Spread by Memory-less Agents 
