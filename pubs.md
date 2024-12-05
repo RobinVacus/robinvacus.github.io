@@ -6,6 +6,13 @@ nav_order: 3
 
 # Publications
 
+### 🚧 Fast and Robust Information Spreading in the Noisy PULL Model 
+
+[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928), [Amos Korman](https://amoskorman.com/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and **R.V.**   
+**, 2024   
+[(Preprint)](https://arxiv.org/abs/2411.02560)   
+
+
 ### 🎙️ On the Limits of Information Spread by Memory-less Agents 
 
 [Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928) and **R.V.**   
@@ -82,5 +89,4 @@ nav_order: 3
 - **07/2022**: [Principles of Distributed Computing](https://www.podc.org/podc2022/), Salerno. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
 
 - **06/2022**: [9th French-Israeli Workshop on Foundations of Computer Science](https://www.filofocs.org/filofocs-2022), Tel-Aviv. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
-
 
