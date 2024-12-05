@@ -5,7 +5,8 @@ nav_order: 3
 ---
 
 # Publications
-{: .highlight } 📰: Journal paper, 🎙️: Conference paper, 📯: Brief Announcement, 🚧: Preprint
+{: .highlight }
+📰: Journal paper, 🎙️: Conference paper, 📯: Brief Announcement, 🚧: Preprint
 
 ### 🚧 Fast and Robust Information Spreading in the Noisy PULL Model 
 
