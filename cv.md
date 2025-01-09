@@ -9,14 +9,15 @@ nav_order: 2
 
 ## Academic Background
 
+### 01/2025 –  : Post-doctoral researcher at Humboldt University, Berlin
+
+Supervisor
+: [Joel Rybicki](https://rybicki.github.io/)
 
 ### 01/2024 – 12/2024: Post-doctoral researcher at Bocconi University, Milan
 
 Supervisor
-: Luca Trevisan
-
-Affiliation
-: Bocconi Institute for Data Science and Analytics (BIDSA)
+: [Luca Trevisan](https://lucatrevisan.github.io/)
 
 ### 12/2020 – 12/2023: PhD in Computer Science at IRIF, CNRS, Paris
 
@@ -37,7 +38,7 @@ Jury
   Claire Mathieu CNRS, IRIF, Université Paris Cité (Examinatrice)   
   Roger Wattenhofer, ETH Zurich (Reviewer)   
 
-For the thesis, I received the [2024 PODC Doctoral Dissertation Award](https://www.podc.org/dissertation/)./
+For the thesis, I received the [2024 PODC Doctoral Dissertation Award](https://www.podc.org/dissertation/).
 
 ### 2017 – 2019 Master of Computer Science at ENS de Lyon
 
