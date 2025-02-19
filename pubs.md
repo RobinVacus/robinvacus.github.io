@@ -9,6 +9,11 @@ nav_order: 3
 {: .highlight }
 📰: Journal paper, 🎙️: Conference paper, 📯: Brief Announcement, 🚧: Preprint
 
+### 🚧 Minimal Leader Election Under Weak Communication 
+
+**R.V.** and [Isabella Ziccardi](https://sites.google.com/view/isabellaziccardi/)   
+2025  [(Preprint)](https://arxiv.org/abs/2502.12697)   
+
 ### 🚧 Fast and Robust Information Spreading in the Noisy PULL Model 
 
 [Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928), [Amos Korman](https://amoskorman.com/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and **R.V.**   
