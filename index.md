@@ -5,10 +5,14 @@ nav_order: 1
 ---
 # Homepage
 
+I am now a post-doctoral researcher with [Joel Rybicki](https://rybicki.github.io/) at Humboldt University, Berlin. In 2024, I was working at Bocconi University, Milan, with [Luca Trevisan](https://lucatrevisan.github.io/).
+
+
+## Thesis
+
 After obtaining a master's degree in theoretical Computer Science in [ENS de Lyon](http://www.ens-lyon.fr/), I have been a PhD student at IRIF from December 2020 to December 2023, under the supervision of [Amos Korman](https://amoskorman.com/) and [Pierre Fraigniaud](https://www.irif.fr/users/pierref/index). For my work during this period, I received the [2024 PODC Doctoral Dissertation Award](https://www.podc.org/dissertation/).
 
-In 2024, I have been a post-doctoral researcher at Bocconi University, Milan, with [Luca Trevisan](https://lucatrevisan.github.io/). I am now working with [Joel Rybicki](https://rybicki.github.io/) at Humboldt University, Berlin.
-
+My thesis is called "Algorithmic Perspectives to Collective Natural Phenomena" [(.PDF)](res/thesis.pdf). Some important results are summarized in the [Distributed Computing Column](http://bulletin.eatcs.org/index.php/beatcs/article/view/819) of the EATCS Bulletin n°144.
 
 
 ## Research interests

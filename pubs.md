@@ -9,10 +9,15 @@ nav_order: 3
 {: .highlight }
 📰: Journal paper, 🎙️: Conference paper, 📯: Brief Announcement, 🚧: Preprint
 
-### 🚧 Minimal Leader Election Under Weak Communication 
+### 🎙️ Minimal Leader Election Under Weak Communication 
 
 **R.V.** and [Isabella Ziccardi](https://sites.google.com/view/isabellaziccardi/)   
-2025  [(Preprint)](https://arxiv.org/abs/2502.12697)   
+*PODC*, 2025  [(Preprint)](https://arxiv.org/abs/2502.12697)   
+
+### 📯 Brief Announcement: Fast and Robust Information Spreading in the Noisy PULL Model 
+
+[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928), [Amos Korman](https://amoskorman.com/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and **R.V.**   
+*PODC*, 2025  [(Preprint)](https://arxiv.org/abs/2411.02560)   
 
 ### 🚧 Fast and Robust Information Spreading in the Noisy PULL Model 
 
@@ -65,9 +70,10 @@ nav_order: 3
 *Scientific Reports*, 2021  [(Published version)](https://doi.org/10.1109/TCNS.2022.3212640) [(Preprint)](https://arxiv.org/abs/2106.15942)   
 
 # Talks at Conferences and Workshops
+- **10/2024**: [38th International Symposium on Distributed Computing](https://www.disc-conference.org/wp/disc2024/), Madrid. *On the Limits of Information Spread by Memory-less Agents*.
 - **05/2024**: [Kolmogorov meets Turing](https://sites.google.com/uniroma1.it/kmt-2024), Rome. *Minority Dynamics: the Short and Winding Road to Consensus*.
 - **10/2023**: [Workshop on Analysis of Network Dynamics](https://sites.google.com/view/wand2023/home), L’Aquila. *The Self-stabilizing Bit-Dissemination Problem*.
-- **08/2023**: [The 32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org/), Online talk. *On the Role of Memory in Robust Opinion Dynamics*.
+- **08/2023**: [32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org/), Online talk. *On the Role of Memory in Robust Opinion Dynamics*.
 - **09/2022**: [2nd Workshop Complexity and Algorithms](https://www.irif.fr/gt-coa/workshop2022), Paris. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
 - **07/2022**: [Principles of Distributed Computing](https://www.podc.org/podc2022/), Salerno. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
 - **06/2022**: [9th French-Israeli Workshop on Foundations of Computer Science](https://www.filofocs.org/filofocs-2022), Tel-Aviv. *Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication*.
