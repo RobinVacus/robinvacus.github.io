@@ -16,12 +16,12 @@ nav_order: 3
 
 ### 📯 Brief Announcement: Fast and Robust Information Spreading in the Noisy PULL Model 
 
-[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928), [Amos Korman](https://amoskorman.com/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and **R.V.**   
+[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and **R.V.**   
 *PODC*, 2025  [(Preprint)](https://arxiv.org/abs/2411.02560)   
 
 ### 🚧 Fast and Robust Information Spreading in the Noisy PULL Model 
 
-[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928), [Amos Korman](https://amoskorman.com/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and **R.V.**   
+[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and **R.V.**   
 2024  [(Preprint)](https://arxiv.org/abs/2411.02560)   
 
 ### 🎙️ On the Limits of Information Spread by Memory-less Agents 
@@ -36,12 +36,12 @@ nav_order: 3
 
 ### 📰 Abundant Resources can Trigger Reduced Consumption: Unveiling the Paradox of Excessive Scrounging 
 
-**R.V.** and [Amos Korman](https://amoskorman.com/)   
+**R.V.** and [Amos Korman](https://amoskorman.cs.haifa.ac.il/)   
 *PNAS*, 2024  [(Published version)](https://doi.org/10.1073/pnas.2322955121) [(Preprint)](https://arxiv.org/abs/2307.04920)   
 
 ### 📰 Early Adapting to Trends: Self-Stabilizing Information Spread Using Passive Communication 
 
-[Amos Korman](https://amoskorman.com/) and **R.V.**   
+[Amos Korman](https://amoskorman.cs.haifa.ac.il/) and **R.V.**   
 *Distributed Computing*, 2024  [(Published version)](https://doi.org/10.1007/s00446-024-00462-8) [(Preprint)](https://hal.science/hal-03615861)   
 
 ### 🎙️ The Minority Dynamics and the Power of Synchronicity 
@@ -51,22 +51,22 @@ nav_order: 3
 
 ### 🎙️ On the Role of Memory in Robust Opinion Dynamics 
 
-[Luca Becchetti](http://www.diag.uniroma1.it/~becchett/), [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/), [Amos Korman](https://amoskorman.com/), [Francesco Pasquale](https://www.mat.uniroma2.it/~pasquale/), [Luca Trevisan](https://lucatrevisan.github.io/) and **R.V.**   
+[Luca Becchetti](http://www.diag.uniroma1.it/~becchett/), [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Francesco Pasquale](https://www.mat.uniroma2.it/~pasquale/), [Luca Trevisan](https://lucatrevisan.github.io/) and **R.V.**   
 *IJCAI*, 2023  [(Published version)](https://doi.org/10.24963/ijcai.2023/4) [(Preprint)](https://arxiv.org/abs/2302.08600)   
 
 ### 📰 Distributed Alignment Processes With Samples of Group Average 
 
-[Amos Korman](https://amoskorman.com/) and **R.V.**   
+[Amos Korman](https://amoskorman.cs.haifa.ac.il/) and **R.V.**   
 *IEEE TCNS*, 2023  [(Published version)](https://doi.org/10.1109/TCNS.2022.3212640) [(Preprint)](https://hal.science/hal-03124213)   
 
 ### 🎙️ Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication 
 
-[Amos Korman](https://amoskorman.com/) and **R.V.**   
+[Amos Korman](https://amoskorman.cs.haifa.ac.il/) and **R.V.**   
 *PODC*, 2022  [(Published version)](https://doi.org/10.1145/3519270.3538415) [(Preprint)](https://hal.science/hal-03615861)   
 
 ### 📰 On the Role of Hypocrisy in Escaping the Tragedy of the Commons 
 
-[Amos Korman](https://amoskorman.com/) and **R.V.**   
+[Amos Korman](https://amoskorman.cs.haifa.ac.il/) and **R.V.**   
 *Scientific Reports*, 2021  [(Published version)](https://doi.org/10.1109/TCNS.2022.3212640) [(Preprint)](https://arxiv.org/abs/2106.15942)   
 
 # Talks at Conferences and Workshops
