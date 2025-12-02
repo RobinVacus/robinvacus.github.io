@@ -9,7 +9,9 @@ nav_order: 2
 
 ## Academic Background
 
-### 01/2025 –  : Post-doctoral researcher at Humboldt University, Berlin
+### 12/2025 - : CNRS researcher at LIP6, Paris 
+
+### 01/2025 – 11/2025  : Post-doctoral researcher at Humboldt University, Berlin
 
 Supervisor
 : [Joel Rybicki](https://rybicki.github.io/)
