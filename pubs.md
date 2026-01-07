@@ -9,10 +9,15 @@ nav_order: 3
 {: .highlight }
 📰: Journal paper, 🎙️: Conference paper, 📯: Brief Announcement, 🚧: Preprint
 
-### 🚧 Space-efficient Population Protocols for Exact Majority in General Graphs 
+### 🎙️ Space-efficient Population Protocols for Exact Majority on General Graphs 
 
 [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**   
-2025  [(Preprint)](https://arxiv.org/abs/2508.11384)   
+*SODA*, 2026  [(Preprint)](https://arxiv.org/abs/2508.11384)   
+
+### 📰 On the Limits of Information Spread by Memory-less Agents 
+
+[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928) and **R.V.**   
+*Distributed Computing*, 2025  [(Published version)](https://doi.org/10.1007/s00446-025-00500-z) [(Preprint)](https://arxiv.org/abs/2402.11553)   
 
 ### 🎙️ Minimal Leader Election Under Weak Communication 
 
