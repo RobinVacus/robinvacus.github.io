@@ -6,34 +6,21 @@ nav_order: 3
 
 # Publications
 
-{: .important-title }
-> Space-efficient Population Protocols for Exact Majority on General Graphs
-> 
-> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**
-> - 📰 *SODA*, 2026
-> - 📰 *SODA*, 2026
-
 
 {: .note-title }
 > Space-efficient Population Protocols for Exact Majority on General Graphs
 > 
-> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**
-> - 📰 *SODA*, 2026
-> - 📰 *SODA*, 2026
+> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and R.V.
+> - 📰 [*SODA*](https://arxiv.org/abs/2508.11384), 2026
 
 
-{: .highlight }
-> Space-efficient Population Protocols for Exact Majority on General Graphs
-> 
-> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**
-> - 📰 *SODA*, 2026
-> - 📰 *SODA*, 2026
+{: .note-title }
+> On the Limits of Information Spread by Memory-less Agents 
+> [Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928) and R.V.
+> - 📰 [*Distributed Computing*](https://doi.org/10.1007/s00446-025-00500-z), 2025
+> - 🎙️ [*DISC*](https://doi.org/10.4230/LIPIcs.DISC.2024.18), 2024
+> - 📯 [*PODC*](https://doi.org/10.1145/3662158.3662813), 2024 (Brief Announcement)
 
-
-### 📰 On the Limits of Information Spread by Memory-less Agents 
-
-[Niccolò D'Archivio](https://orcid.org/0009-0005-9491-2928) and **R.V.**   
-*Distributed Computing*, 2025  [(Published version)](https://doi.org/10.1007/s00446-025-00500-z) [(Preprint)](https://arxiv.org/abs/2402.11553)   
 
 ### 🎙️ Minimal Leader Election Under Weak Communication 
 
