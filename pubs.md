@@ -13,7 +13,7 @@ nav_order: 3
 > - 🎙️ *SODA*, 2026
 > 
 > <details markdown="block">
-> <summary>Shopping list (click me!)</summary>
+> <summary>Abstract (click to expand)</summary>
 
 > This is content inside a `<details>` dropdown.
 
@@ -22,18 +22,6 @@ nav_order: 3
 > - [ ] Milk
 
 > </details>
-
-<details markdown="block">
-<summary>Shopping list (click me!)</summary>
-
-This is content inside a `<details>` dropdown.
-
-- [ ] Apples
-- [ ] Oranges
-- [ ] Milk
-
-</details>
-
 
 {: .note-title }
 > Minimal Leader Election Under Weak Communication
