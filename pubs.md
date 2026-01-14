@@ -6,13 +6,22 @@ nav_order: 3
 
 # Publications
 
+{: .important-title }
+> Space-efficient Population Protocols for Exact Majority on General Graphs
+> 
+> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**
+> - 📰 *SODA*, 2026
+> - 📰 *SODA*, 2026
+
+
+
 {: .highlight }
-📰: Journal paper, 🎙️: Conference paper, 📯: Brief Announcement, 🚧: Preprint
+> Space-efficient Population Protocols for Exact Majority on General Graphs
+> 
+> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**
+> - 📰 *SODA*, 2026
+> - 📰 *SODA*, 2026
 
-### 🎙️ Space-efficient Population Protocols for Exact Majority on General Graphs 
-
-[Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**   
-*SODA*, 2026  [(Preprint)](https://arxiv.org/abs/2508.11384)   
 
 ### 📰 On the Limits of Information Spread by Memory-less Agents 
 
@@ -78,5 +87,4 @@ nav_order: 3
 
 [Amos Korman](https://amoskorman.cs.haifa.ac.il/) and **R.V.**   
 *Scientific Reports*, 2021  [(Published version)](https://doi.org/10.1109/TCNS.2022.3212640) [(Preprint)](https://arxiv.org/abs/2106.15942)   
-
 
