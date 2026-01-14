@@ -14,13 +14,13 @@ nav_order: 3
 > 
 > <details markdown="block">
 > <summary>Abstract (click to expand)</summary>
-
+>
 > This is content inside a `<details>` dropdown.
-
+>
 > - [ ] Apples
 > - [ ] Oranges
 > - [ ] Milk
-
+>
 > </details>
 
 {: .note-title }
