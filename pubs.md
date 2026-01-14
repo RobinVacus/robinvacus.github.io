@@ -14,6 +14,13 @@ nav_order: 3
 > - 📰 *SODA*, 2026
 
 
+{: .note-title }
+> Space-efficient Population Protocols for Exact Majority on General Graphs
+> 
+> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and **R.V.**
+> - 📰 *SODA*, 2026
+> - 📰 *SODA*, 2026
+
 
 {: .highlight }
 > Space-efficient Population Protocols for Exact Majority on General Graphs
