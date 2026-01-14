@@ -14,6 +14,9 @@ heading_anchors: true
 
 color_scheme: coleus
 
+math: mathjax
+
+
 # A footer with "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "View this content on GitHub"
