@@ -49,22 +49,8 @@ For the thesis, I received the [2024 PODC Doctoral Dissertation Award](https://w
 
 ## Program Committee Membership
 
+- [ACM Symposium on Principles of Distributed Computing (PODC) 2026](https://www.podc.org/podc2026/program-committee/)
+
 - [4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND) 2025](https://sand2025.csc.liv.ac.uk/committees.html)
 
 
-## Teaching
-
-- **Initiation à la Programmation 1** L1 (Python)
-  - 2020-2021, 2021-2022
-  - UFR d’Informatique d’Université Paris Cité
-  - *Total time:* 46h TP
-
-- **Initiation à la Programmation 2** L1 (Java)
-  - 2020-2021
-  - UFR d’Informatique d’Université Paris Cité
-  - *Total time:* 24h TP & 24h TD
-
-- **Programmation Orientée Objet** L2 (Java)
-  - 2021-2022, 2022-2023
-  - UFR d’Informatique d’Université Paris Cité
-  - *Total time:* 72h TP & 24h TD

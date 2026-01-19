@@ -10,7 +10,7 @@ nav_order: 3
 > Space-efficient Population Protocols for Exact Majority on General Graphs
 >
 > [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and R.V.
-> - 🎙️ *SODA*, 2026
+> - 🎙️ [*SODA*, 2026](https://doi.org/10.1137/1.9781611978971.24)
 > <details markdown="block">
 > <summary>Abstract</summary>
 > 
@@ -19,19 +19,6 @@ nav_order: 3
 > We give improved upper and lower bounds for exact majority in general graphs. First, we give asymptotically tight time lower bounds  for general (unbounded space) protocols. Second, we obtain new upper bounds parameterized by the relaxation time $$\trel$$ of the random walk on $$G$$ induced by the scheduler and the degree imbalance $$\Delta/\delta$$ of $$G$$. Specifically, we give a protocol that stabilizes in $$O\left( \tfrac{\Delta}{\delta} \tau_{\mathsf{rel}} \log^2 n \right)$$ steps in expectation and with high probability and uses  $$O\left( \log n \cdot \left(  \log\left(\tfrac{\Delta}{\delta}\right) + \log \left(\tfrac{\trel}{n}\right) \right) \right)$$ states in any graph with minimum degree at least $$\delta$$ and maximum degree at most $$\Delta$$.
 > 
 > For regular expander graphs, this matches the optimal space complexity of $$\Theta(\log n)$$ for fast protocols in complete graphs [Alistarh et al., SODA 2016 and Doty et al., FOCS 2022] with a nearly optimal stabilization time of $$O(n \log^2 n)$$ steps. Finally, we give a new upper bound of $$O(\trel \cdot n \log n)$$ for the stabilization time of a constant-state protocol.
-> 
-> 
-> </details>
-
-{: .note-title }
-> Minimal Leader Election Under Weak Communication
->
-> R.V. and [Isabella Ziccardi](https://sites.google.com/view/isabellaziccardi/)
-> - 🎙️ [*PODC*, 2025](https://doi.org/10.1145/3732772.3733559)
-> <details markdown="block">
-> <summary>Abstract</summary>
-> 
-> We propose a protocol to solve Leader Election within weak communication models such as the beeping model or the stone-age model.  Unlike most previous work, our algorithm operates on only six states,  does not require unique identifiers, and assumes no prior knowledge of  the network's size or topology, i.e., it is uniform. We show that under  our protocol, the system almost surely converges to a configuration in  which a single node is in a leader state. With high probability, this  occurs in fewer than $$O(D^2 \log n)$$ rounds, where $$D$$ is the network diameter. We also show that this can be decreased to $$O(D \log n)$$ when a constant factor approximation of $$D$$ is known. The main drawbacks of our approach are a $$\tilde{\Omega}(D)$$ overhead in the running time compared to algorithms with stronger requirements, and the fact that nodes are unaware of when a  single-leader configuration is reached. Nevertheless, the minimal  assumptions and natural appeal of our solution make it particularly  well-suited for implementation in the simplest distributed systems,  especially biological ones.
 > 
 > 
 > </details>
@@ -49,6 +36,19 @@ nav_order: 3
 > The current work shows that the aforementioned lower bound is almost tight. In particular, in the extreme case where each agent observes all other agents in each round, which can be related to scenarios where each agent senses the average tendency of the system, information spreading can reliably be achieved in $$\mathcal{O}(\log n)$$ time, assuming constant noise. We present two simple and highly efficient protocols, thus suggesting their applicability to real-life scenarios. Notably, they also work in the presence of multiple conflicting sources and efficiently converge to their plurality opinion. The first protocol we present uses 1-bit messages but relies on a simultaneous wake-up assumption. By increasing the message size to 2 bits and removing the speedup in the information spreading time that may result from having multiple sources, we also present a simple and highly efficient self-stabilizing protocol that avoids the simultaneous wake-up requirement.
 > 
 > Overall, our results demonstrate how, under stochastic communication, increasing the sample size can compensate for the lack of communication structure by linearly accelerating information spreading time.
+> 
+> </details>
+
+{: .note-title }
+> Minimal Leader Election Under Weak Communication
+>
+> R.V. and [Isabella Ziccardi](https://sites.google.com/view/isabellaziccardi/)
+> - 🎙️ [*PODC*, 2025](https://doi.org/10.1145/3732772.3733559)
+> <details markdown="block">
+> <summary>Abstract</summary>
+> 
+> We propose a protocol to solve Leader Election within weak communication models such as the beeping model or the stone-age model.  Unlike most previous work, our algorithm operates on only six states,  does not require unique identifiers, and assumes no prior knowledge of  the network's size or topology, i.e., it is uniform. We show that under  our protocol, the system almost surely converges to a configuration in  which a single node is in a leader state. With high probability, this  occurs in fewer than $$O(D^2 \log n)$$ rounds, where $$D$$ is the network diameter. We also show that this can be decreased to $$O(D \log n)$$ when a constant factor approximation of $$D$$ is known. The main drawbacks of our approach are a $$\tilde{\Omega}(D)$$ overhead in the running time compared to algorithms with stronger requirements, and the fact that nodes are unaware of when a  single-leader configuration is reached. Nevertheless, the minimal  assumptions and natural appeal of our solution make it particularly  well-suited for implementation in the simplest distributed systems,  especially biological ones.
+> 
 > 
 > </details>
 
@@ -96,6 +96,19 @@ nav_order: 3
 > </details>
 
 {: .note-title }
+> Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication
+>
+> [Amos Korman](https://amoskorman.cs.haifa.ac.il/) and R.V.
+> - 📰 [*Distributed Computing*, 2024](https://doi.org/10.1007/s00446-024-00462-8)
+> - 🎙️ [*PODC*, 2022](https://doi.org/10.1145/3519270.3538415)
+> <details markdown="block">
+> <summary>Abstract</summary>
+> 
+> How to efficiently and reliably spread information in a system is one of the most fundamental problems in distributed computing. Recently, inspired by biological scenarios, several works focused on identifying the minimal communication resources necessary to spread information under faulty conditions. Here we study the  self-stabilizing *bit-dissemination* problem, introduced by Boczkowski, Korman, and Natale in [SODA 2017]. The problem considers a fully-connected network of $$n$$ *agents*, with a binary world of *opinions*, one of which is called *correct*. At any given time, each agent holds an opinion bit as its public output. The population contains a *source* agent which knows which opinion is correct. This agent adopts the correct opinion and remains with it throughout the execution. We consider the basic $$\mathcal{PULL}$$ model of communication, in which each agent observes  relatively few randomly chosen agents in each round. The goal of the non-source agents is to quickly converge on the correct opinion, despite having an arbitrary initial configuration, i.e., in a self-stabilizing manner. Once the population converges on the correct opinion, it should remain with it forever. Motivated by biological scenarios in which animals observe and react to the behavior of others, we focus on the extremely constrained model of *passive communication*, which assumes that when observing another agent the only information that can be extracted is the opinion bit of that agent. We prove that this problem can be solved in a poly-logarithmic in $$n$$ number of rounds with high probability, while sampling a logarithmic number of agents at each round. Previous works solved this problem faster and using fewer samples, but they did that by decoupling the messages sent by agents from their output opinion, and hence do not fit the framework of passive communication. Moreover, these works use complex recursive algorithms with refined clocks that are unlikely to be used by biological entities. In contrast, our proposed algorithm has a natural appeal as it is based on letting agents estimate the current tendency direction of the dynamics, and then adapt to the emerging trend. 
+> 
+> </details>
+
+{: .note-title }
 > On the Role of Memory in Robust Opinion Dynamics
 >
 > [Luca Becchetti](http://www.diag.uniroma1.it/~becchett/), [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Francesco Pasquale](https://www.mat.uniroma2.it/~pasquale/), [Luca Trevisan](https://lucatrevisan.github.io/) and R.V.
@@ -121,19 +134,6 @@ nav_order: 3
 > <summary>Abstract</summary>
 > 
 > This paper studies a stochastic alignment problem assuming that agents can sense the general tendency of the system. More specifically, we consider $$n$$ agents, each being associated with a real number. In each round, each agent receives a noisy measurement of the system's average value and then updates its value. This value is then perturbed by random drift. We assume that both noise and drift are Gaussian. We prove that a distributed weighted-average algorithm optimally minimizes the deviation of each agent from the average value, and for every round. Interestingly, this optimality holds even in the centralized setting, where a master agent can gather all the agents' measurements and instruct a move to each one. We find this result surprising since it can be shown that the set of measurements obtained by all agents contains strictly more information about the deviation of Agent $$i$$ from the average value, than the information contained in the measurements obtained by Agent $$i$$ alone. Although this information is relevant for Agent $$i$$, it is not processed by it when running a weighted-average algorithm. Finally, we also analyze the drift of the center of mass and show that no distributed algorithm can achieve drift that is as small as the one that can be achieved by the best centralized algorithm.
-> 
-> </details>
-
-{: .note-title }
-> Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication
->
-> [Amos Korman](https://amoskorman.cs.haifa.ac.il/) and R.V.
-> - 📰 [*Distributed Computing*, 2024](https://doi.org/10.1007/s00446-024-00462-8)
-> - 🎙️ [*PODC*, 2022](https://doi.org/10.1145/3519270.3538415)
-> <details markdown="block">
-> <summary>Abstract</summary>
-> 
-> How to efficiently and reliably spread information in a system is one of the most fundamental problems in distributed computing. Recently, inspired by biological scenarios, several works focused on identifying the minimal communication resources necessary to spread information under faulty conditions. Here we study the  self-stabilizing *bit-dissemination* problem, introduced by Boczkowski, Korman, and Natale in [SODA 2017]. The problem considers a fully-connected network of $$n$$ *agents*, with a binary world of *opinions*, one of which is called *correct*. At any given time, each agent holds an opinion bit as its public output. The population contains a *source* agent which knows which opinion is correct. This agent adopts the correct opinion and remains with it throughout the execution. We consider the basic $$\mathcal{PULL}$$ model of communication, in which each agent observes  relatively few randomly chosen agents in each round. The goal of the non-source agents is to quickly converge on the correct opinion, despite having an arbitrary initial configuration, i.e., in a self-stabilizing manner. Once the population converges on the correct opinion, it should remain with it forever. Motivated by biological scenarios in which animals observe and react to the behavior of others, we focus on the extremely constrained model of *passive communication*, which assumes that when observing another agent the only information that can be extracted is the opinion bit of that agent. We prove that this problem can be solved in a poly-logarithmic in $$n$$ number of rounds with high probability, while sampling a logarithmic number of agents at each round. Previous works solved this problem faster and using fewer samples, but they did that by decoupling the messages sent by agents from their output opinion, and hence do not fit the framework of passive communication. Moreover, these works use complex recursive algorithms with refined clocks that are unlikely to be used by biological entities. In contrast, our proposed algorithm has a natural appeal as it is based on letting agents estimate the current tendency direction of the dynamics, and then adapt to the emerging trend. 
 > 
 > </details>
 
