@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Homepage
 
-Since December 2025, I am a CNRS researcher at LIP6, Paris.
+Since December 2025, I am a CNRS researcher at [LIP6](https://www.lip6.fr/), Paris.
 
 I was a PhD student at IRIF from December 2020 to December 2023, under the supervision of [Amos Korman](https://amoskorman.com/) and [Pierre Fraigniaud](https://www.irif.fr/users/pierref/index). After that, I was a post-doctoral researcher with [Luca Trevisan](https://lucatrevisan.github.io/) at Bocconi University (Milan) in 2024, and then with [Joel Rybicki](https://rybicki.github.io/) at Humboldt University (Berlin) in 2025.
 

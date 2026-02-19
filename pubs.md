@@ -7,6 +7,22 @@ nav_order: 3
 # Publications
 
 {: .note-title }
+> Near-optimal population protocols on bounded-degree trees
+>
+> [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik and R.V.
+> - 🚧 [*arXiv*, 2026](https://arxiv.org/abs/2602.16222)
+> <details markdown="block">
+> <summary>Abstract</summary>
+> 
+> We investigate space-time trade-offs for population  protocols in sparse interaction graphs. In complete interaction graphs,  optimal space-time trade-offs are known for the leader election and  exact majority problems. However, it has remained open if other graph  families exhibit similar space-time complexity trade-offs, as existing  lower bound techniques do not extend beyond highly dense graphs.
+> 
+> In this work, we show that -- unlike in complete graphs --  population protocols on bounded-degree trees do not exhibit significant  asymptotic space-time trade-offs for leader election and exact majority. For these problems, we give constant-space protocols that have  near-optimal worst-case expected stabilisation time. These new protocols achieve a linear speed-up compared to the state-of-the-art.
+> 
+> Our results are based on two novel protocols, which we believe are  of independent interest. First, we give a new fast self-stabilising  2-hop colouring protocol for general interaction graphs, whose  stabilisation time we bound using a stochastic drift argument. Second,  we give a self-stabilising tree orientation algorithm that builds a  rooted tree in optimal time on any tree. As a consequence, we can use  simple constant-state protocols designed for directed trees to solve  leader election and exact majority fast. For example, we show that  "directed" annihilation dynamics solve exact majority in $$O(n^2 \log n)$$ steps on directed trees.    
+> 
+> </details>
+
+{: .note-title }
 > Space-efficient Population Protocols for Exact Majority on General Graphs
 >
 > [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik, [Olivier Stietel](https://ostietel.github.io/) and R.V.
@@ -26,7 +42,7 @@ nav_order: 3
 {: .note-title }
 > Fast and Robust Information Spreading in the Noisy PULL Model
 >
-> Niccolò D'Archivio, [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and R.V.
+> [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and R.V.
 > - 📯 [*PODC*, 2025](https://doi.org/10.1145/3732772.3733543) (Brief Announcement)
 > <details markdown="block">
 > <summary>Abstract</summary>
@@ -55,7 +71,7 @@ nav_order: 3
 {: .note-title }
 > On the Limits of Information Spread by Memory-less Agents
 >
-> Niccolò D'Archivio and R.V.
+> [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home) and R.V.
 > - 📰 [*Distributed Computing*, 2025](https://doi.org/10.1007/s00446-025-00500-z)
 > - 🎙️ [*DISC*, 2024](https://doi.org/10.4230/LIPIcs.DISC.2024.18)
 > - 📯 [*PODC*, 2024](https://doi.org/10.1145/3662158.3662813) (Brief Announcement)
