@@ -29,6 +29,6 @@ I investigate the computational power of simple **distributed systems** operatin
 
 &emsp; [On the map](https://maps.app.goo.gl/cPms9iQirMFuaeQX6)
 
-&emsp; **Email:** robin.vacus(at)lip6.fr
+&emsp; **Email:** robin.vacus(at)cnrs.fr
 
 <br clear="left"/>
