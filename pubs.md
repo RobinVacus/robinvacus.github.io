@@ -10,7 +10,7 @@ nav_order: 3
 > Near-optimal population protocols on bounded-degree trees
 >
 > [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik and R.V.
-> - 🚧 [*arXiv*, 2026](https://arxiv.org/abs/2602.16222)
+> - 🎙️ [*DISC*, 2026](https://arxiv.org/abs/2602.16222)
 > <details markdown="block">
 > <summary>Abstract</summary>
 > 
@@ -19,6 +19,23 @@ nav_order: 3
 > In this work, we show that -- unlike in complete graphs --  population protocols on bounded-degree trees do not exhibit significant  asymptotic space-time trade-offs for leader election and exact majority. For these problems, we give constant-space protocols that have  near-optimal worst-case expected stabilisation time. These new protocols achieve a linear speed-up compared to the state-of-the-art.
 > 
 > Our results are based on two novel protocols, which we believe are  of independent interest. First, we give a new fast self-stabilising  2-hop colouring protocol for general interaction graphs, whose  stabilisation time we bound using a stochastic drift argument. Second,  we give a self-stabilising tree orientation algorithm that builds a  rooted tree in optimal time on any tree. As a consequence, we can use  simple constant-state protocols designed for directed trees to solve  leader election and exact majority fast. For example, we show that  "directed" annihilation dynamics solve exact majority in $$O(n^2 \log n)$$ steps on directed trees.    
+> 
+> </details>
+
+{: .note-title }
+> Fast and Robust Information Spreading in the Noisy PULL Model
+>
+> [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and R.V.
+> - 🎙️ [*DISC*, 2026](https://arxiv.org/abs/2411.02560)
+> - 📯 [*PODC*, 2025](https://doi.org/10.1145/3732772.3733543) (Brief Announcement)
+> <details markdown="block">
+> <summary>Abstract</summary>
+> 
+> Understanding how information can efficiently spread in distributed systems under stochastic and noisy communication conditions is a fundamental question in both biological research and artificial system design. When the communication pattern is stable, allowing agents to control whom they interact with, noise in communication can often be mitigated through redundancy or more sophisticated coding techniques. In contrast, previous work has shown that noisy communication has fundamentally different consequences on well-mixed systems. Specifically, Boczkowski et al. (2018) considered the noisy $$\mathcal{PULL}(h)$$ model, in which in each (parallel) round, each agent passively receives observations of the messages held by $$h$$ randomly chosen agents, where each message can be viewed as any other message in the alphabet $$\Sigma$$ with probability $$\delta$$. The authors proved that in this model, the basic task of propagating a  bit value from a single source to the whole population requires $$\Omega(\frac{n\delta}{h(1-\delta\mid\Sigma\mid)^2})$$ rounds. For example, for one-to-one interactions ($$h=1$$) and constant $$\delta$$, this lower bound is exponentially higher than the time required to reliably spread information over a stable complete network, thus exemplifying how the loss of structure in communication can undermine the system's ability to effectively counteract noise. 
+> 
+> The current work shows that the aforementioned lower bound is almost tight. In particular, in the extreme case where each agent observes all other agents in each round, which can be related to scenarios where each agent senses the average tendency of the system, information spreading can reliably be achieved in $$\mathcal{O}(\log n)$$ time, assuming constant noise. We present two simple and highly efficient protocols, thus suggesting their applicability to real-life scenarios. Notably, they also work in the presence of multiple conflicting sources and efficiently converge to their plurality opinion. The first protocol we present uses 1-bit messages but relies on a simultaneous wake-up assumption. By increasing the message size to 2 bits and removing the speedup in the information spreading time that may result from having multiple sources, we also present a simple and highly efficient self-stabilizing protocol that avoids the simultaneous wake-up requirement.
+> 
+> Overall, our results demonstrate how, under stochastic communication, increasing the sample size can compensate for the lack of communication structure by linearly accelerating information spreading time.
 > 
 > </details>
 
@@ -36,22 +53,6 @@ nav_order: 3
 > 
 > For regular expander graphs, this matches the optimal space complexity of $$\Theta(\log n)$$ for fast protocols in complete graphs [Alistarh et al., SODA 2016 and Doty et al., FOCS 2022] with a nearly optimal stabilization time of $$O(n \log^2 n)$$ steps. Finally, we give a new upper bound of $$O(\trel \cdot n \log n)$$ for the stabilization time of a constant-state protocol.
 > 
-> 
-> </details>
-
-{: .note-title }
-> Fast and Robust Information Spreading in the Noisy PULL Model
->
-> [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and R.V.
-> - 📯 [*PODC*, 2025](https://doi.org/10.1145/3732772.3733543) (Brief Announcement)
-> <details markdown="block">
-> <summary>Abstract</summary>
-> 
-> Understanding how information can efficiently spread in distributed systems under stochastic and noisy communication conditions is a fundamental question in both biological research and artificial system design. When the communication pattern is stable, allowing agents to control whom they interact with, noise in communication can often be mitigated through redundancy or more sophisticated coding techniques. In contrast, previous work has shown that noisy communication has fundamentally different consequences on well-mixed systems. Specifically, Boczkowski et al. (2018) considered the noisy $$\mathcal{PULL}(h)$$ model, in which in each (parallel) round, each agent passively receives observations of the messages held by $$h$$ randomly chosen agents, where each message can be viewed as any other message in the alphabet $$\Sigma$$ with probability $$\delta$$. The authors proved that in this model, the basic task of propagating a  bit value from a single source to the whole population requires $$\Omega(\frac{n\delta}{h(1-\delta\mid\Sigma\mid)^2})$$ rounds. For example, for one-to-one interactions ($$h=1$$) and constant $$\delta$$, this lower bound is exponentially higher than the time required to reliably spread information over a stable complete network, thus exemplifying how the loss of structure in communication can undermine the system's ability to effectively counteract noise. 
-> 
-> The current work shows that the aforementioned lower bound is almost tight. In particular, in the extreme case where each agent observes all other agents in each round, which can be related to scenarios where each agent senses the average tendency of the system, information spreading can reliably be achieved in $$\mathcal{O}(\log n)$$ time, assuming constant noise. We present two simple and highly efficient protocols, thus suggesting their applicability to real-life scenarios. Notably, they also work in the presence of multiple conflicting sources and efficiently converge to their plurality opinion. The first protocol we present uses 1-bit messages but relies on a simultaneous wake-up assumption. By increasing the message size to 2 bits and removing the speedup in the information spreading time that may result from having multiple sources, we also present a simple and highly efficient self-stabilizing protocol that avoids the simultaneous wake-up requirement.
-> 
-> Overall, our results demonstrate how, under stochastic communication, increasing the sample size can compensate for the lack of communication structure by linearly accelerating information spreading time.
 > 
 > </details>
 
