@@ -10,7 +10,7 @@ nav_order: 3
 > Near-optimal population protocols on bounded-degree trees
 >
 > [Joel Rybicki](https://rybicki.github.io/), Jakob Solnerzik and R.V.
-> - 🎙️ [*DISC*, 2026](https://arxiv.org/abs/2602.16222)
+> - 🎙️ [*DISC*, 2026](https://doi.org/10.4230/LIPIcs.DISC.2026.30)
 > <details markdown="block">
 > <summary>Abstract</summary>
 > 
@@ -26,7 +26,7 @@ nav_order: 3
 > Fast and Robust Information Spreading in the Noisy PULL Model
 >
 > [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [Amos Korman](https://amoskorman.cs.haifa.ac.il/), [Emanuele Natale](https://natema.github.io/ema-webpage/) and R.V.
-> - 🎙️ [*DISC*, 2026](https://arxiv.org/abs/2411.02560)
+> - 🎙️ [*DISC*, 2026](https://doi.org/10.4230/LIPIcs.DISC.2026.38)
 > - 📯 [*PODC*, 2025](https://doi.org/10.1145/3732772.3733543) (Brief Announcement)
 > <details markdown="block">
 > <summary>Abstract</summary>
